@@ -26,7 +26,7 @@ const Signup = () => {
   return (
     <div className="d-flex flex-column justify-content-between vh-100 bg-white p-4">
       <div className="mt-auto">
-        <h5 className="fw-bold">Create your PopX account</h5>
+        <h2 className="fw-bold">Create your PopX account</h2>
       </div>
 
       <form className="w-100" onSubmit={handleSubmit}>
