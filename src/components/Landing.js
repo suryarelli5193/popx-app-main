@@ -5,7 +5,7 @@ const Landing = () => {
   return (
     <div className="d-flex flex-column justify-content-between align-items-center vh-100 bg-white p-4">
       <div className="text-center mt-auto">
-        <h4 className="fw-bold">Welcome to PopX</h4>
+        <h1 className="fw-bold">Welcome to PopX</h1>
         <p className="text-muted px-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
       </div>
 
