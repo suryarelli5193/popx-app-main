@@ -6,7 +6,7 @@ const Profile = () => {
   return (
     <div className="d-flex flex-column justify-content-between vh-100 bg-white p-4">
       <div className="mt-auto">
-        <h5 className="fw-bold">Account Settings</h5>
+        <h2 className="fw-bold">Account Settings</h2>
         {user ? (
           <>
             <p><strong>Full Name:</strong> {user.fullName}</p>
